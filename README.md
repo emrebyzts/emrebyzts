@@ -2,7 +2,7 @@
 
 <!--
 **emrebyzts/emrebyzts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 👋 Hello there! I'm Emre, a passionate individual with a strong interest in exploring the intersections of technology, information management, and creativity.
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 😄 On a lighter note, I'm known for my quirky sense of humor and love to sprinkle a bit of fun into everything I do. Life's too short to take too seriously, right?
 
 ⚡ Fun fact: When I'm not immersed in the world of technology and information management, you'll likely find me behind the lens capturing breathtaking moments in nature, experimenting with new recipes in the kitchen, or embarking on adventurous hikes to recharge my creative energy.
--->
+
